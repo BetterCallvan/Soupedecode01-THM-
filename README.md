@@ -10,7 +10,7 @@
 
 **Guest SMB → SID Brute-force → Password Spray → Kerberoasting → Pass-the-Hash → `NT AUTHORITY\SYSTEM`**
 
-📖 Read the full writeup:&nbsp; **[🇷🇺 Русский](README_RU.md)** &nbsp;|&nbsp; **[🇬🇧 English](README_EN.md)**
+📖 Read the full writeup:&nbsp; **[Русский](README_RU.md)** &nbsp;|&nbsp; **[English](README_EN.md)**
 
 </div>
 
