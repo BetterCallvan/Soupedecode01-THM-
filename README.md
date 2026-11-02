@@ -4,7 +4,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red?style=flat-square)
 ![OS](https://img.shields.io/badge/OS-Windows%20Server-0078D6?style=flat-square&logo=windows)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green?style=flat-square)
 ![Category](https://img.shields.io/badge/Category-Active%20Directory-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-Educational%20Use-lightgrey?style=flat-square)
 
