@@ -195,7 +195,7 @@ Reading the root flag:
 
 ```cmd
 C:\Windows\system32> type C:\Users\Administrator\Desktop\root.txt
-27cb2be302c388d63d27c86bfdd5f56a
+27cb2be302c388d63d27c......
 ```
 
 ---
